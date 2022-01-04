@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fernando-Bash" height="30" width="40" src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo.png">
+  <img align="center" alt="Fernando-Bash" height="30" width="40" src="https://symbols.getvecta.com/stencil_75/34_bash-shell-icon.a56a03e1f5.svg">
   <img align="right" alt="Fernando-pic" height="150" style="border-radius:50px;" src="https://i.octopus.com/blog/2021-01/on-the-naming-of-devops-engineers/blog-image-naming-of-devops-engineers_2021.png">
 </div>
   
@@ -21,6 +21,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 
 
 <!--
