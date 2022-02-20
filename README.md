@@ -1,4 +1,11 @@
-## Oi, eu sou o Fernando Müller, DevOps Engineer e viciado em tecnologia!
+### Hi there 👋
+
+I am Fernando Müller, a DevOps Engineer looking to solve real world problems, who loves open source and is currently working at [Appmax](https://www.appmax.com.br/).
+
+I have a passion for learning and sharing my knowledge with others as publicly as possible.
+I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Script, Golang, Containers, PHP and Javascript.
+
+
 <div>
   <a href="https://github.com/fernandomullerjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
