@@ -5,20 +5,6 @@ I am Fernando Müller, a DevOps Engineer looking to solve real world problems, w
 I have a passion for learning and sharing my knowledge with others as publicly as possible.
 I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Script, Golang, Containers, PHP and Javascript.
 
-
-<div>
-  <a href="https://github.com/fernandomullerjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomullerjr&layout=compact&langs_count=7&theme=default"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fernando-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
-</div>
-  
-  ##
- 
  
 ### Connect with me:
 <div> 
