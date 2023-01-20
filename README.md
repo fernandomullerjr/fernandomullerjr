@@ -5,6 +5,8 @@ I am Fernando Müller, a DevOps Engineer looking to solve real world problems, w
 I have a passion for learning and sharing my knowledge with others as publicly as possible.
 I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Script, Golang, Containers, PHP and Javascript.
 
+
+
 <div>
   <a href="https://github.com/fernandomullerjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -23,7 +25,6 @@ I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Scri
   <a href = "mailto:fernandomj90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fmullerjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
 
 
