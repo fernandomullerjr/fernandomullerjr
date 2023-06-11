@@ -5,6 +5,7 @@ I am Fernando Müller, a DevOps Engineer looking to solve real world problems, w
 I have a passion for learning and sharing my knowledge with others as publicly as possible.
 I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Script, Golang, Containers, PHP and Javascript.
 
+I'm the founder of the blog <a href="https://devopsmind.com.br">devopsmind.com.br</a>, where I post tips related to the DevOps world.
 
 
 <div>
