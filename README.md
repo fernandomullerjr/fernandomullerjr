@@ -7,13 +7,19 @@ I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Scri
 
 I'm the founder of the blog <a href="https://devopsmind.com.br">devopsmind.com.br</a>, where I post tips related to the DevOps world.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=radical)
+<img
+  alt="Fernando Muller Jr GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=radical"
+/>
 
-### 🧠 Linguagens mais usadas
+## 🧠 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomullerjr&layout=compact&langs_count=8&theme=radical)
+<img
+  alt="Top Langs"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomullerjr&layout=compact&langs_count=8&theme=radical"
+/>
 
 
 <!-- <div>
