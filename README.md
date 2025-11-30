@@ -7,6 +7,8 @@ I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Scri
 
 I'm the founder of the blog <a href="https://devopsmind.com.br">devopsmind.com.br</a>, where I post tips related to the DevOps world.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandomullerjr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <div>
   <a href="https://github.com/fernandomullerjr">
