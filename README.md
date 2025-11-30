@@ -8,11 +8,11 @@ I have a focus on AWS, Linux, Kubernetes, Ansible, Terraform, Python, Shell Scri
 I'm the founder of the blog <a href="https://devopsmind.com.br">devopsmind.com.br</a>, where I post tips related to the DevOps world.
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/fernandomullerjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomullerjr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomullerjr&layout=compact&langs_count=7&theme=nord"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
